@@ -9,5 +9,6 @@ An analysis of the Kickstarter data was done to help a client determine the time
 
 The data was filtered down to only theater plays then differentiated based on the outcome of the fundraiser.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108902185/194639815-b2cd96ec-4456-49de-bd52-72be03f9d3c2.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108902185/194639928-4a62c4ce-a65f-4bf3-92ca-d420201f28e6.png)
 
+The data was again filtered down to only plays, the new data was then displayed based on the size of the goal and what percentage of plays at those goal ranges were successful, failed or canceled.
